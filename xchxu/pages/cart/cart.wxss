@@ -1,0 +1,6 @@
+.cart{
+  height:300rpx;
+  border: 1px solid #000; 
+  margin: 30rpx;
+  padding: 20rpx;
+}
